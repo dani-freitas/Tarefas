@@ -1,0 +1,9 @@
+<resources>
+    <string name="next">Próximo</string>
+    <string name="app_name">Tarefa</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="previous">Anterior</string>
+    <string name="first_fragment_label">Rótulo do Primeiro Fragmento</string>
+    <string name="second_fragment_label">Rótulo do Segundo Fragmento</string>
+    <string name="place_holder_example">Exemple</string>
+</resources>

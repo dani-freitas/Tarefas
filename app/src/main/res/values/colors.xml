@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#00474C</color>
+    <color name="purple_500">#00474C</color>
+    <color name="purple_700">#00474C</color>
+    <color name="teal_200">#00474C</color>
+    <color name="teal_700">#00474C</color>
+    <color name="black">#00474C</color>
+    <color name="white">#000</color>
+    <color name="Orange">#F58220</color>
+    <color name="LightGreen">#008e97</color>
+    <color name="MidNightGreen">#00474C</color>
+    <color name="Skobeloff">#006B72</color>
+    <color name="Whithe_1">#FFFFFFFF</color>
+    <color name="Light_Green">#166E73</color>
+</resources>
